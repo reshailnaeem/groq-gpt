@@ -1,5 +1,5 @@
 # GroqGPT
-A Streamlit app that can use all Groq models in a ChatGPT-like interface.
+A Streamlit app to use all Groq models in a ChatGPT-like interface.
 
 Parts of this project are based on ollama_pdf_rag by tonykipkemboi, available at https://github.com/tonykipkemboi/ollama_pdf_rag.
 
@@ -10,7 +10,7 @@ Parts of this project are based on ollama_pdf_rag by tonykipkemboi, available at
 
 ## Features
 
-This is a simple Streamlit UI that can use all Groq models in a ChatGPT-like interface. It needs a Groq API for that. There is a sidebar for modifying temperature, top-p, and maximum tokens. It also has the ability to save chat history as a .txt file if needed.
+This is a simple Streamlit UI to use all Groq chat models in a ChatGPT-like interface. It needs a Groq API for that. There is a sidebar for modifying temperature, top-p, and maximum tokens. It also has the ability to save chat history as a .txt file if needed.
 
 ## Installation
 
