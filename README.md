@@ -10,9 +10,11 @@ Parts of this project are based on ollama_pdf_rag by tonykipkemboi, available at
 
 ## Features
 
-This is a simple Streamlit UI to use all Groq chat models in a ChatGPT-like interface. It needs a Groq API for that. There is a sidebar for modifying temperature, top-p, and maximum tokens. It also has the ability to save chat history as a .txt file if needed.
+-A simple Streamlit UI to use all Groq chat models in a ChatGPT-like interface (API key required)
+-Configurable options for temperature, top-p, and maximum tokens
+-Ability to save chat history as a .txt file
 
-## Installation
+## Usage
 
 Use any Python >= 3.11 version along with the requirements.txt file in the repository. I used 3.12 with the latest versions of all libraries.
 
@@ -20,6 +22,10 @@ Use any Python >= 3.11 version along with the requirements.txt file in the repos
 # Installing using repo file
 pip install -r requirements.txt
 ```
+
+export GROQ_API_KEY="your-api-key"
+
+streamlit run app.py
 
 ## License
 
