@@ -23,9 +23,21 @@ Use any Python >= 3.11 version along with the requirements.txt file in the repos
 pip install -r requirements.txt
 ```
 
-export GROQ_API_KEY="your-api-key"
+First, if you haven't already, create a free account on [GroqCloud](https://console.groq.com/) and generate a [Groq API Key](https://console.groq.com/keys). Set your Groq API Key as an environment variable:
 
+```bash
+export GROQ_API_KEY=<YOUR_GROQ_API_KEY>
+```
+
+Run the app using:
+```bash
 streamlit run app.py
+```
+
+You can now access the app locally on:
+```bash
+http://localhost:8501/
+```
 
 ## License
 
