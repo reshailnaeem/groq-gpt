@@ -10,9 +10,9 @@ Parts of this project are based on groq_streamlit_demo by tonykipkemboi, availab
 
 ## Features
 
--A simple Streamlit UI to use all Groq chat models in a ChatGPT-like interface (API key required)
--Configurable options for temperature, top-p, and maximum tokens
--Ability to save chat history as a .txt file
+- A simple Streamlit UI to use all Groq chat models in a ChatGPT-like interface (API key required)
+- Configurable options for temperature, top-p, and maximum tokens
+- Ability to save chat history as a .txt file
 
 ## Usage
 
