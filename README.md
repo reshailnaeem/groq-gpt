@@ -5,7 +5,7 @@ Parts of this project are based on groq_streamlit_demo by tonykipkemboi, availab
 
 ## Table of Contents
 - [Features](#features)
-- [Installation](#installation)
+- [Usage](#usage)
 - [License](#license)
 
 ## Features
