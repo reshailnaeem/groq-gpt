@@ -1,7 +1,7 @@
 # GroqGPT
 A Streamlit app to use all Groq models in a ChatGPT-like interface.
 
-Parts of this project are based on ollama_pdf_rag by tonykipkemboi, available at https://github.com/tonykipkemboi/ollama_pdf_rag.
+Parts of this project are based on groq_streamlit_demo by tonykipkemboi, available at [https://github.com/tonykipkemboi/ollama_pdf_rag](https://github.com/tonykipkemboi/groq_streamlit_demo).
 
 ## Table of Contents
 - [Features](#features)
